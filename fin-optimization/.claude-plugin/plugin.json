@@ -1,0 +1,19 @@
+{
+  "name": "fin-optimization",
+  "version": "1.0.0",
+  "description": "Decision frameworks for optimizing Intercom Fin AI agent — choose the right content intervention and prioritize which Procedures to build",
+  "author": {
+    "name": "Thomas H"
+  },
+  "keywords": [
+    "intercom",
+    "fin",
+    "ai-agent",
+    "support",
+    "procedures",
+    "guidance",
+    "snippets",
+    "custom-answers",
+    "content-strategy"
+  ]
+}
