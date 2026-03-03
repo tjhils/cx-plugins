@@ -49,6 +49,10 @@ The **Content Advisor** is reactive — Fin got something wrong, which lever do 
 
 When the Content Advisor's decision framework leads to "this needs a Procedure," it hands off to the Procedure Advisor for the full scoring and sequencing framework. One diagnoses the problem; the other plans the solution.
 
-## Version
+## Acknowledgments
 
-1.0.0
+The `procedure-advisor` skill is a modified version of work by [Conor Pendergrast](https://github.com/conorpendergrast/Intercom-Fin-Skills), used under the MIT License. See [NOTICE](./NOTICE) for the original license.
+
+## License
+
+MIT — see [LICENSE](../LICENSE) for details.
