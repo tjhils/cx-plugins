@@ -1,0 +1,10 @@
+{
+  "name": "writing-check",
+  "version": "0.1.0",
+  "description": "Scan drafts for AI writing tells and detection-tool patterns, calibrated to your own voice from a one-time setup.",
+  "author": {
+    "name": "Thomas Hils"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "editing", "ai-detection", "voice", "tone", "gptzero", "perplexity", "burstiness", "slop"]
+}

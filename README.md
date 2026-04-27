@@ -7,6 +7,7 @@ A collection of Claude plugins for customer experience teams. Each plugin provid
 | Plugin | Description | Skills |
 |--------|-------------|--------|
 | [fin-optimization](./fin-optimization/) | Decision frameworks for optimizing Intercom Fin AI agent | `content-advisor`, `procedure-advisor` |
+| [writing-check](./writing-check/) | Scan drafts for AI writing tells and detection-tool patterns, calibrated to your own voice from a one-time setup | `writing-check` |
 
 ## Installation
 
@@ -33,10 +34,13 @@ plugin-name/
 ├── README.md                  # What the plugin does and how to use it
 ├── .claude-plugin/
 │   └── plugin.json            # Plugin metadata (name, version, description)
+├── commands/                  # optional: slash commands
+│   └── command-name.md
 └── skills/
     └── skill-name/
         ├── SKILL.md            # Skill instructions and behavior
-        └── references/         # Supporting knowledge files
+        ├── references/         # optional: supporting knowledge files
+        └── templates/          # optional: file templates
 ```
 
 ## Contributing
